@@ -1,4 +1,4 @@
-# Metasploit Cheetsheet:
+# Metasploit Cheatsheet:
 
 ## Basic Metasploit :
 
@@ -156,3 +156,4 @@ meterpreter > hashdump
 ```
 $ msfvenom –p [payload user want] -e [encoder] -i [no. of iteration of encoder] -f [file type of payload] -L [localhost] -P [local port] -o [output file]
 `````
+//tested in 2020
